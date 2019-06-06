@@ -1,6 +1,6 @@
-# CX Hackathon - eLibrary
+# CX Hackathon - Acquisition Gateway
 
-This repository accepts submissions for the eLibrary app during the CX Hackathon.
+This repository accepts submissions for the Acquisition Gateway app during the CX Hackathon.
 
 ## Instructions
 
