@@ -2,12 +2,7 @@
 
 Repository for AG Team 2
 
-### Compiles and minifies for production
-```
-cd agbot
-```
-
-## Project setup
+## Chatbot Project setup
 ```
 npm install
 ```
@@ -21,3 +16,6 @@ npm start
 ```
 npm run build
 ```
+
+## Admin UI Mockups
+Admin UI mockups location : ```admin_ui```
