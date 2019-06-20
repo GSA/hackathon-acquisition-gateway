@@ -4,6 +4,11 @@ Repository for AG Team 2
 
 ## Chatbot Project setup
 ```
+cd agbot
+```
+
+## Chatbot Project setup
+```
 npm install
 ```
 
