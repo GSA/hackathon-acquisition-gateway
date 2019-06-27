@@ -1,9 +1,26 @@
 # CX Hackathon - Acquisition Gateway
 
-This repository accepts submissions for the Acquisition Gateway app during the CX Hackathon.
+Repository for AG Team 2
 
-## Instructions
+## Chatbot Project setup
+```
+cd agbot
+```
 
-1. [Fork this repository](https://help.github.com/en/articles/fork-a-repo) to your GitHub account.
-2. Build your solution and commit it to your fork.
-3. When you are ready to submit your solution, [create a pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) from your fork to this repository.
+## Chatbot Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm start
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+## Admin UI Mockups
+Admin UI mockups location : ```admin_ui```
